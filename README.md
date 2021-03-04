@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm JuanPablo 👋
 
-<!--
-**juan1t0/juan1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="200px" src="d2b5ef1d089455e38715f64bd0e15293.gif"/>
 
-Here are some ideas to get you started:
+## I'm a Student, Reseacher, AI Lover!
+- ✨ My name is JuanPablo but everyone knows me as JUANITO or JAPOS
+- 🔭 I'm currently working in a proyect at my university named RUTAS
+- 🌱 I'm  learning neuroscience and though theories
+- 🔬 2021 Goals: Learn a bit more of how human brain works 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/juanpablo-andrew-heredia-parillo-0140ab133/]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/JAHPOS0599]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/japh0s/]
+
+<br />
+
+### Tech & Tools Preference
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-yellowgreen?style=flat&logo=google%20colab&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan1t0&langs_count=10&theme=tokyonight&layout=compact" alt="juan1t0" /></p>
+<img align="right" alt="juan1t0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juan1t0&show_icons=true&hide_border=true&theme=tokyonight" />
