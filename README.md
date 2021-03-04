@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" height="200px" src="d2b5ef1d089455e38715f64bd0e15293.gif"/>
 
 ## I'm a Student, Reseacher, AI Lover!
-- ✨ My name is JuanPablo but everyone knows me as JUANITO or JAPOS
-- 🔭 I'm currently working in a proyect at my university named RUTAS
-- 🌱 I'm  learning neuroscience and though theories
-- 🔬 2021 Goals: Learn a bit more of how human brain works 
+- ✨ My name is JuanPablo, but everyone knows me as JUANITO or JAPOS
+- 🔭 I'm currently working on a project at my university called RUTAS
+- 🌱 I'm learning neuroscience and AI's theories
+- 🔬 2021 Goals: Learn a little more about how the human brain works
 
 ### Connect with me:
 
