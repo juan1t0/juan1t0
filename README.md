@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="d2b5ef1d089455e38715f64bd0e15293.gif"/>
 
-## I'm a Student, Reseacher, AI Lover!
+## I'm a Student, Researcher, AI Lover!
 - ✨ My name is JuanPablo, but everyone knows me as JUANITO or JAPOS
 - 🔭 I'm currently working on a project at my university called RUTAS
 - 🌱 I'm learning neuroscience and AI's theories
