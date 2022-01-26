@@ -6,7 +6,7 @@
 - ✨ My name is JuanPablo, but everyone knows me as JUANITO or JAPOS
 - 🔭 I'm currently working on a project at my university called RUTAS
 - 🌱 I'm trying to learn new theories of neuroscience and AI
-- 🔬 2021 Goals: Learn a little more about how the human brain works
+- 🔬 2022 Goals: Learn a little more about how the human brain works
 
 ### Connect with me:
 
