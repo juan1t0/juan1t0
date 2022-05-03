@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="d2b5ef1d089455e38715f64bd0e15293.gif"/>
 
-## I'm a Software Developer now, but I like Research, AI Lover!
+## I'm a Software Developer now, but I like Research!
 - ✨ My name is Juanpablo, but everyone knows me as JUANITO or JAPOS
 - 🔭 I'm currently working on software development and in a project at my university called RUTAS
 - 🌱 I'm trying to learn new theories of neuroscience and AI
