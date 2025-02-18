@@ -4,9 +4,9 @@
 
 ## I'm a passionate researcher!
 - ✨ My name is Juanpablo, but everyone knows me as JUANITO or JAHPOS
-- 🔭 I'm currently working on PhD stuffs
+- 🔭 I'm currently working on PhD research
 - 🌱 I'm trying to learn new theories of neuroscience and AI
-- 🔬 2024 Goals: Mastering geometric deep learning
+- 🔬 2025 Goals: Write some papers
 
 ### Connect with me:
 
